@@ -1,0 +1,3 @@
+<launch>
+	<node name = "Image" pkg = "sr" type = "image.py" output = "screen" respawn = "true"/>
+</launch>
